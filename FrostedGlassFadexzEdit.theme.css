@@ -60,9 +60,9 @@
 	/*
 	 * Brightness variables
 	 */
-	--serverlist-brightness: 0.4; /* Brightness for serverlist | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
-	--left-brightness: 0.4; /* Channels and DM list brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
-	--middle-brightness: 0.4; /* Chat brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.6 */
+	--serverlist-brightness: 0.05; /* Brightness for serverlist | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
+	--left-brightness: 0.05; /* Channels and DM list brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
+	--middle-brightness: 0.05; /* Chat brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.6 */
 	--right-brightness: 0; /* Members and Now Playing brightness | 0 - 1 (decimals allowed) | DEFAULT: 0 */
 	--overlay-brightness: 0.95; /* Brightness for popouts and modals | 0 - 1 (decimals allowed) | DEFAULT: 0.75 */
 
@@ -77,7 +77,7 @@
 	 * Tint variables
 	 */
 	--tint-colour: 12, 12, 24; /* Colour of tint | DEAFULT: 255,51,159 */
-	--tint-brightness: 1; /* Brightness of --tint-colour | 0 - 1 (decimals allowed) | DEFAULT: 0 */
+	--tint-brightness: 0.05; /* Brightness of --tint-colour | 0 - 1 (decimals allowed) | DEFAULT: 0 */
 
 	/*
 	 * Other variables
